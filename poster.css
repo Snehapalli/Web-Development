@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(33, 149, 162);
+    background-size: cover;
+    text-align: center;
+    margin: 40px;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+
+.poster{
+    font-family: serif;
+    text-align: center;
+    color: white;
+    margin-top:100px;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.image{
+    border: 5px solid black;
+    width: 100%;
+}
